@@ -1,0 +1,30 @@
+export const data=[
+    {
+        id:1,
+        img:"https://bitbucket.org/punitdiwan/coding-challange/raw/422d739e95063be2ad555486c6d207c92a9977ff/assets/burger.jpeg",
+        price:200,
+        foodname:"Hamburger",
+        alt:"Hamburger"
+    },
+    {
+        id:2,
+        img:"https://bitbucket.org/punitdiwan/coding-challange/raw/422d739e95063be2ad555486c6d207c92a9977ff/assets/fries.jpeg",
+        price:100,
+        foodname:"Fries",
+        alt:"Fries"
+    },
+    {
+        id:3,
+        img:"https://bitbucket.org/punitdiwan/coding-challange/raw/422d739e95063be2ad555486c6d207c92a9977ff/assets/coke.jpeg",
+        price:50,
+        foodname:"Coke",
+        alt:"Coke"
+    },
+    {
+        id:4,
+        img:"https://bitbucket.org/punitdiwan/coding-challange/raw/422d739e95063be2ad555486c6d207c92a9977ff/assets/pepsi.jpeg",
+        price:20,
+        foodname:"Pepsi",
+        alt:"Pepsi"
+    },
+]

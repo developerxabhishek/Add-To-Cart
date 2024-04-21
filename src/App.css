@@ -91,7 +91,7 @@ margin: 10px 0 0 10px;
 
 .cart-page{
   width: 500px;
-  background-color: yellow;
+  background-color: rgb(55, 55, 50);
   height: auto;
   min-height: 200px;
   position: relative;
@@ -108,6 +108,7 @@ margin: 10px 0 0 10px;
 font-size: 18px;
 font-weight: 400;
 
+
 }
 .in-cart-button{
   padding: 2px 18px;
@@ -117,6 +118,8 @@ font-weight: 400;
   font-weight: 600;
   color: #fff;
   margin-right: 2px;
+
+  
 }
 .order-summary{
   font-weight: 400;
@@ -129,11 +132,16 @@ font-weight: 400;
   height: 100vh;
   width: 100vw;
   background: transparent;
+  color: #fff;
+  
 
 }
 .cart-part-1-2{
   margin-left: 150px;
   margin-top: 10px;
+  position: absolute;
+  top: 80%;
+  left: 5%;
 }
 .checkout{
   height: 70vh;
